@@ -5,7 +5,8 @@ Creative and analytical Computer Engineering student with a passion for developi
 
 ###
 
-<img align="right" height="300" src="https://img.freepik.com/premium-vector/man-4-preobrazovannyj_983400-1790.jpg?w=826"  />
+<!--<img align="right" height="300" src="https://img.freepik.com/premium-vector/man-4-preobrazovannyj_983400-1790.jpg?w=826"/>-->
+<img align="right" height="300" src="https://img.freepik.com/premium-vector/man-4-preobrazovannyj_983400-1790.jpg?w=826" style="border-radius: 50%;">
 
 - 🔬 Passionate about **AI, Machine Learning, and Data Analytics**
 - 🚀 Currently working on **Brain Tumor Classification using YOLO**
