@@ -1,4 +1,4 @@
-# <h1 align="center">Hi 👋! My name is Mit Gandhi | AI & Machine Learning Enthusiast</h1> #
+# <h1 align="center">Hi!👋 My name is Mit Gandhi | AI & Machine Learning Enthusiast</h1> #
 Creative and analytical Computer Engineering student with a passion for developing innovative solutions to complex problems. Proficient in Data Analytics, Machine Learning, AI.
 
 ###
