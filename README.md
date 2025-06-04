@@ -8,11 +8,11 @@ Creative and analytical Computer Engineering student with a passion for developi
 <img align="right" height="300" src="https://img.freepik.com/premium-vector/man-4-preobrazovannyj_983400-1790.jpg?w=826"/>
 
 - 🔬 Passionate about **AI, Machine Learning, and Data Analytics**
-<!--- 🚀 Currently working on **Brain Tumor Classification using YOLO**-->
 - 🌱 Exploring **GAN's**
 - 🧠 Researching **Deep Learning & Computer Vision**
 - 🎯 Looking for collaborations in **AI-driven projects**
 - 📫 Reach me at: [gandhimit04@gmail.com](mailto:gandhimit04@gmail.com)
+<!--- 🚀 Currently working on **Brain Tumor Classification using YOLO**-->
 
 
 ###
