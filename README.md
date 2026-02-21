@@ -54,7 +54,6 @@ Creative and analytical Computer Engineering student with a passion for developi
 [![Portfolio](https://img.shields.io/badge/Portfolio-053a28?style=for-the-badge&logo=https://raw.githubusercontent.com/Mit-Gandhi/Emergent-Portfolio/main/frontend/public/images/icon.png&logoWidth=26&labelColor=053a28)](https://mitgandhi.netlify.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mit-gandhi-a3281628a/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/mit.gandhi.33483?igsh=YmMxbTI0NGlqZnV4)
-
 <!-- <div align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mit-Gandhi&layout=compact&theme=dracula&langs_count=6&hide_border=false" height="130" alt="Top Languages" />
   <img src="https://github-readme-stats.vercel.app/api?username=Mit-Gandhi&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&hide_border=false" height="130" alt="GitHub Stats" />
